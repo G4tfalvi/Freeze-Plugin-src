@@ -1,4 +1,4 @@
-# Freeze-Plugin-src
+# Freeze Plugin SRC
 Easy Freeze plugin Source Code
 
 https://www.youtube.com/channel/UC7P2_LqeGV55SLENUc-R2gg
