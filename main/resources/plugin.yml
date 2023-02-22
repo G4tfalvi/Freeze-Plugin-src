@@ -1,0 +1,13 @@
+name: Freeze
+version: '${project.version}'
+main: hu.hepi.Main
+api-version: 1.18
+authors: [ Hepi ]
+
+commands:
+  freeze:
+    usage: /freeze <player>
+    description: Freeze players
+  unfreeze:
+    usage: /unfreeze <player>
+    description: Unfreeze players
